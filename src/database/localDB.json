@@ -1,0 +1,78 @@
+{
+	"instituteLogo": "pulumqshsgs-logo-png-300x300.png",
+	"instituteName": {
+		"english": "Pulum Qazi Saleema Haq Secondary Girls School",
+		"bangla": "পুলুম কাজী সালিমা হক মাধ্যমিক বালিকা বিদ্যালয়"
+	},
+	"instituteCode": {
+		"EIIN": 118068,
+		"schoolCode": 7181
+	},
+	"instituteAddress": {
+		"english": "Pulum, Shalikha, Magura-7620",
+		"bangla": "পুলুম, শালিখা, মাগুরা-৭৬২০"
+	},
+	"googleSheet": {
+		"BASIC_INFO_GET_API": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQNSAtmzqWO3IYkBdwiwe_J8p56I4yQ0Domq9FAWDQsgBrJzHfbkYcsOH9cdj45btlzgMqyGiA7eRJM/pub?gid=0&single=true&output=tsv",
+		"NOTICE_GET_API": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSrTtI8eL6oLjpnJUlrAchzL6KEK2Midlh4BrWjgl32lWK_ycheuWoG7-2XwXjlooUKXOzd0CxZqCHB/pub?gid=1935915782&single=true&output=tsv",
+		"TEACHERS_STAFFS_COMMITTEE_GET_API": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTYajol6Rctb-zwIBuGWb6ouD3SIX-T5j04Gj7J6e92okCMChcSTD9aPZktNjVyCdDr4Wuvik1567sY/pub?gid=1521057210&single=true&output=tsv",
+		"STUDENTS_GET_API": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRtm6DO9Cbf7HXGnxtE3F-hV6k9tvFH7mC_JVspjFbGWYg6XP4VHlojKkQofm7rOW3GqXnYwMVLjtVG/pub?gid=1242825400&single=true&output=tsv",
+		"resultsShareUrl": "https://docs.google.com/spreadsheets/d/1vba0slQzyYBLJHco7JhdjdIre6J4bDsWFKH7-hjqim0/edit?usp=sharing",
+		"classRoutineShareUrl": "https://docs.google.com/spreadsheets/d/1Nky2hLKa3I0Qp3e57bStrKztIxZrOlK3mToS_nhCodI/edit?usp=sharing",
+		"libraryShareUrl": "https://drive.google.com/drive/folders/1-pHw6SvAj6Hu-9XEyGLNS9rz5T2dm3L1?usp=sharing",
+		"adminDenger": {
+			"studentsEditUrl": "https://docs.google.com/spreadsheets/d/1dKkekxaR43YiXiR_ce2mQLLbrfPJRbyAg2svlRR5IE8/edit?usp=sharing",
+			"instituteBasicInfoEditUrl": "https://docs.google.com/spreadsheets/d/14IIY_sSZg7R5uXl61FImiGrX00nOIV8vxA96Hj5Q-1o/edit?usp=sharing",
+			"messagesViewUrl": "https://docs.google.com/spreadsheets/d/1-zk9lSFwkqjP29yr5SQe56EEbJgnpaA-MtQiP6e0jvg/edit?usp=sharing",
+			"noticesEditUrl": "https://docs.google.com/spreadsheets/d/1xvx0DgqIOSu2OWQMIx7n59y-qh3hrveFUpLFc4IZtAc/edit?usp=sharing",
+			"teachersStaffsCommitteeEditUrl": "https://docs.google.com/spreadsheets/d/1FXrECVTfkbSwER6mxczkmhFRPPl5FfD9h5OPnqMfYCY/edit?usp=sharing"
+		}
+	},
+	"YOUTUBE_GET_API": "https://www.googleapis.com/youtube/v3/search?channelId=UCGmNAK27aBaE5vUBDkIJFvg&type=video&key=AIzaSyAdIoXDsOMsOpozEuKDvE2viklKENIKPRc",
+	"googleForms": {
+		"admin": {
+			"notices": "https://docs.google.com/forms/d/e/1FAIpQLSfkQR4tMCQP_IVl01bp3DEiO2imsNNP_aVFgVXMVzr8A_2vQA/viewform?usp=sharing&ouid=113021699886773237203",
+			"teachersStaffsCommittee": "https://docs.google.com/forms/d/e/1FAIpQLSe8ATeh8DkqcEDjK16ekYy_f0hM3PH1Vn1zTVqmB0qqsJeG2w/viewform?usp=sharing&ouid=113021699886773237203"
+		},
+		"user": {
+			"studentAdmission": "https://docs.google.com/forms/d/e/1FAIpQLSf4wZGgHNebmvyw-o2Kr08wqOTQ9VbJK7lQGctqw6h7GtsdQw/viewform?usp=sharing&ouid=113021699886773237203"
+		}
+	},
+	"googleDoc": {
+		"instituteInfoShareUrl": "https://docs.google.com/document/d/1nR4nk1ECN4HIVwS1PYA76zOFrzrsvnFiTj3NyABjwks/edit?usp=sharing",
+		"magazineShareUrl": "https://docs.google.com/document/d/1TDJq2LTWL_RqTeQtJdlUTCf_tsi7eT1MgNe5uke3J7Y/edit?usp=sharing"
+	},
+	"photoGalleryUrl": "https://www.pinterest.com/codeseba/pulum-girls-photogallery",
+	"cornerPhotoGalleryUrl":"https://www.pinterest.com/search/my_pins/?q=bangladesh&rs=typed",
+	"cornerVideoGalleryUrl":"https://www.youtube.com/@ScenicRelaxationFilms",
+	"libraryVideoGalleryUrl":"https://www.youtube.com/@10msmain",
+	"youtubeUrl": "https://www.youtube.com/@PulumSecondaryGirlsSchool",
+	"pinterestUrl": "https://www.pinterest.com/codeseba/pulum-girls-photogallery/",
+	"facebookPageUrl": "#",
+	"famousPeople": [
+		{
+			"photoUrl": "https://i.pinimg.com/736x/b5/8d/f9/b58df9c6fdaf8b8b5c9e1bd844c95de4.jpg",
+			"name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+			"designation": "বাংলাদেশের প্রথম রাষ্ট্রপতি ও জাতির পিতা",
+			"quote": "“এবারের সংগ্রাম আমাদের মুক্তির সংগ্রাম, এবারের সংগ্রাম স্বাধীনতার সংগ্রাম!”"
+		},
+		{
+			"photoUrl": "https://i.pinimg.com/736x/1c/42/20/1c42200706107264e07f3cef8c49e12c.jpg",
+			"name": "অ্যালবার্ট আইনস্টাইন",
+			"designation": "বিশ্ববিখ্যাত পদার্থবিজ্ঞানী",
+			"quote": "”যে কথনও ভুল করেনা। সে নতুন কিছু করার চেষ্টা করে না”"
+		},
+		{
+			"photoUrl": "https://i.pinimg.com/736x/dc/cb/d5/dccbd5bccbe614992316eda657609873.jpg",
+			"name": "এরিস্টটল",
+			"designation": "বিশ্ববিখ্যাত গ্রিক বিজ্ঞানী ও দার্শনিক",
+			"quote": "“শিক্ষার শেকড়ের স্বাদ তেঁতো হলেও এর ফল মিষ্টি”"
+		},
+		{
+			"photoUrl": "https://i.pinimg.com/736x/9c/13/0f/9c130f4a650c7f7c799a898d101c474c.jpg",
+			"name": "এ.পি.জে. আবদুল কালাম",
+			"designation": "ভারতের একাদশ রাষ্ট্রপতি ও বিজ্ঞানী",
+			"quote": "“ স্বপ্ন সেটা নয় যেটা তুমি ঘুমিয়ে ঘুমিয়ে দেখাে। স্বপ্ন হলাে সেটাই যা পূরণের অদম্য ইচ্ছা তােমায় ঘুমাতে দেবে না। ”"
+		}
+	]
+}
